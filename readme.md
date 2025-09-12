@@ -1,6 +1,6 @@
 # Hello World
 
- Commands
+ ## Commands
 
 ```
 git init                                    # Creates the repo
